@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gryphon\.android\build-cache\12d928826d93f07e193cbea5babc243e7a9be921\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gryphon\.android\build-cache\2cd22209f91b67f216a2b8c23aa0fd6e0529cbac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\7740d65c8b0aad4fbf46119259b3da576cbc54ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gryphon\.android\build-cache\9f83cd54493eb762abf136f702913120c3bbf21f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gryphon\.android\build-cache\ab5ed5f3acb6b12a0ac4b1c966340a4dd14c9e25\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\6c6f43db890c06c6a55b2ddb19d3064be993be8d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\3594ad98948e549f6e6a6c94b3a107408d32b995\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\b57603aaaecf1f32ba8ec1324ee3e8c611ffdfd4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gryphon\.android\build-cache\e7aedd1b78a8e3f3861c11cc0bee0bbb3639eb02\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.gryphon.voice.MainActivity
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gryphon\.android\build-cache\12d928826d93f07e193cbea5babc243e7a9be921\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gryphon\.android\build-cache\2cd22209f91b67f216a2b8c23aa0fd6e0529cbac\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\7740d65c8b0aad4fbf46119259b3da576cbc54ce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gryphon\.android\build-cache\9f83cd54493eb762abf136f702913120c3bbf21f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gryphon\.android\build-cache\ab5ed5f3acb6b12a0ac4b1c966340a4dd14c9e25\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\6c6f43db890c06c6a55b2ddb19d3064be993be8d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\3594ad98948e549f6e6a6c94b3a107408d32b995\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\b57603aaaecf1f32ba8ec1324ee3e8c611ffdfd4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gryphon\.android\build-cache\e7aedd1b78a8e3f3861c11cc0bee0bbb3639eb02\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gryphon\AndroidStudioProjects\Voice\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Gryphon\.android\build-cache\12d928826d93f07e193cbea5babc243e7a9be921\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Gryphon\.android\build-cache\2cd22209f91b67f216a2b8c23aa0fd6e0529cbac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\7740d65c8b0aad4fbf46119259b3da576cbc54ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Gryphon\.android\build-cache\9f83cd54493eb762abf136f702913120c3bbf21f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Gryphon\.android\build-cache\ab5ed5f3acb6b12a0ac4b1c966340a4dd14c9e25\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\6c6f43db890c06c6a55b2ddb19d3064be993be8d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Gryphon\.android\build-cache\3594ad98948e549f6e6a6c94b3a107408d32b995\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Gryphon\.android\build-cache\b57603aaaecf1f32ba8ec1324ee3e8c611ffdfd4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Gryphon\.android\build-cache\fd33144f6f07dc2142871a471721e37cf66e0473\output\AndroidManifest.xml:26:9-47
